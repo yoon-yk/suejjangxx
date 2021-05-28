@@ -1,1 +1,1 @@
-![suejjangxx's GitHub stats](https://github-readme-stats.vercel.app/show_icons=true&api?username=suejjangxx&count_private=true)
+![suejjangxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=suejjangxx&count_private=true&show_icons=true)
