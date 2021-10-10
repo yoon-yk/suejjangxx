@@ -1,6 +1,6 @@
 <div align='center'>
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Sue%20%20Yoon&fontSize=50&animation=blinkfontColor=111111)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Y%20O%20O%20N&fontSize=50&animation=blinkfontColor=111111)
   
   <h1 align="center">Welcome🧚‍♀️</h1>
   <h3 align="center">A passionate undergraduate student studying BIZ && CS</h3>
