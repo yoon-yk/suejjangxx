@@ -14,7 +14,7 @@
   <h3 align="">Connect with me:</h3>
   <p align="center">
   <a href="https://linkedin.com/in/yeokyeongyoon" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="yeokyeongyoon" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/suejjangxx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/ltsmejojo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" height="30" width="40" /></a>
   </p>
 
   <h3 align="center">Languages and Tools:</h3>
